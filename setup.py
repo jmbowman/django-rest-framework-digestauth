@@ -64,7 +64,7 @@ if sys.argv[-1] == 'publish':
 
 
 setup(
-    name='djangorestframework-digestauth',
+    name='djangorestframework-digestauth-sbo',
     version=version,
     url='http://github.com/juanriaza/django-rest-framework-digestauth',
     license='BSD',
